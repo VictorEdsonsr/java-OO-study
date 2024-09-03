@@ -1,4 +1,4 @@
-package entities;
+package streamsExample.entities;
 
 public class Product {
     private String name;
