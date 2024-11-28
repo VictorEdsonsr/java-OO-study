@@ -1,6 +1,6 @@
-package entities.enums;
+package abstractMethodsEnums.entities.enums;
 
-import entities.utils.Calculate;
+import abstractMethodsEnums.entities.utils.Calculate;
 
 public enum CalculatorEnum {
     SOMA('+') {

@@ -1,4 +1,4 @@
-package entities.utils;
+package abstractMethodsEnums.entities.utils;
 
 public class Calculate {
     public static int soma(int num1, int num2){
